@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="buzou" unicode="&#58937;" d="M512 300m-448 0a7 7 0 1 0 896 0 7 7 0 1 0-896 0Z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="buzhouyi" unicode="&#58885;" d="M512.256 895.3856a511.0784 511.0784 0 0 1-511.4368-511.488 511.0784 511.0784 0 0 1 511.4368-511.3856 511.0784 511.0784 0 0 1 511.4368 511.4368 511.0784 511.0784 0 0 1-511.488 511.4368z m59.904-778.8544H477.184V554.9056c-29.184-29.952-73.0624-52.6336-124.2112-66.5088V577.536c29.184 5.8368 51.8656 17.5616 80.384 32.8704 27.0336 16.0768 51.1488 32.1536 69.376 54.0672h69.4272v-547.9424zM433.3568 610.4064c-28.5184-15.36-51.2-27.0336-80.384-32.8704v-89.088c51.1488 14.592 94.976 36.5056 124.2112 66.4576v-438.3744h94.976V664.4736H502.7328c-18.2272-21.9136-42.3424-37.9904-69.376-54.0672z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="buzhoutiao" unicode="&#59007;" d="M512 896c281.6 0 512-230.4 512-512s-230.4-512-512-512-512 230.4-512 512 230.4 512 512 512z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="buzhou" unicode="&#58984;" d="M512 384m-512 0a512 512 0 1 1 1024 0 512 512 0 1 1-1024 0Z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
